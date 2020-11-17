@@ -1,6 +1,8 @@
 .. raw:: html
 
     <img src="https://github.com/ogencoglu/Gender_Bias_FinBERT/blob/main/media/media.png" height="400px">
+    
+**“Pekka”s are 260 times more likely to be an engineer than “Emilia”s! And “Tiia”s are 410 times more likely to love shopping than “Matti”s!**
 
 Gender Bias in Finnish BERT
 ====================
