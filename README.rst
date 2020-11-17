@@ -1,12 +1,22 @@
-Gender Bias in Finnish BERT
-====================
-A quick showcase of *gender bias* in Finnish BERT model
-
 .. raw:: html
 
-    <img src="https://github.com/ogencoglu/Gender_Bias_FinBERT/blob/master/media/media.png" height="200px">
+    <img src="https://github.com/ogencoglu/Gender_Bias_FinBERT/blob/main/media/media.png" height="400px">
+
+Gender Bias in Finnish BERT
+====================
+A quick showcase of *gender bias* in Finnish BERT model.
 
 Note: this is just a quick demo. For proper way of quantifying bias in contextual language models, see `this paper <https://arxiv.org/abs/1906.07337>`_.
+
+Google Colab Online Demo
+--------------
+
+`Open in Colab <https://colab.research.google.com/drive/1sN0BWRQJEyALTHWInRCFvW354PQlEaW1?usp=sharing>`_
+
+Locally
+--------------
+
+Run `<Gender_Bias_FinBERT_showcase.ipynb>`_
 
 Finnish BERT model - FinBERT v1
 --------------
